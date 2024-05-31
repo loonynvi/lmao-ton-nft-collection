@@ -1,0 +1,11 @@
+{
+    "description": "Explore unique digital assets each with its own story and rarity.",
+    "name": "Treasury Chest #307",
+    "image": "https://i.postimg.cc/c1YZm5X8/epic.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Epic"
+        }
+    ]
+}
