@@ -1,0 +1,11 @@
+{
+    "description": "Explore unique digital assets each with its own story and rarity.",
+    "name": "Treasury Chest #146",
+    "image": "https://i.postimg.cc/765PwH3B/common.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common"
+        }
+    ]
+}
